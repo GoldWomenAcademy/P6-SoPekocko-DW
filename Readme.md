@@ -1,5 +1,5 @@
 P6-SoPekocko-Openclassrooms-DW
-Projet 6 du parcours Dev Web d'Openclassrooms par Nicolas Lachise
+Projet 6 du parcours Dev Web d'Openclassrooms par Fati Pereira
 
 La partie frontend se trouve dans le dossier dwj-projet6 (sous-module) La partie backend se trouve dans le dossier backend
 
