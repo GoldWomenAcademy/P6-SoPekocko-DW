@@ -98,6 +98,7 @@ exports.deleteSauce = (req, res, next) => { // Function to allow sauce deletion
 };
 
 exports.getAllSauces = (req, res, next) => {  // Function that fetches all existing sauces from the database and shows them on the main page
+  console.log("getAllSauces")
   Sauce.find().then(
     (sauces) => {
       res.status(200).json(sauces);

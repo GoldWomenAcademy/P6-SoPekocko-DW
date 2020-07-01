@@ -32,7 +32,6 @@ app.use((req, res, next) => {  // We declare all the headers to allow :
 app.use(bodyParser.json());  // This will parse application/json type POST data
 
 app.use('/images', express.static(path.join(__dirname, 'images')));
-
 app.use('/api/sauces', sauceRoutes);  // We specify the routes used for both our sauces
 app.use('/api/auth', userRoutes);   // and our users
 
