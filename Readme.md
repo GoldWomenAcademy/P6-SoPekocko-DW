@@ -1,9 +1,11 @@
 P6-SoPekocko-Openclassrooms-DW
-Projet 6 du parcours Dev Web d'Openclassrooms par Nicolas Lachise
+
+Projet 6 du parcours Dev Web d'Openclassrooms par Fati PEREIRA
 
 La partie frontend se trouve dans le dossier dwj-projet6 (sous-module) La partie backend se trouve dans le dossier backend
 
 Cloner le projet:
+
 Le projet utilise une partie frontend d'un autre dépot en sous-module Pour cloner ce projet, utiliser:
 
 git clone --recursive https://github.com/WebDevLyon/P6-SoPekocko-Openclassrooms-DW.git
