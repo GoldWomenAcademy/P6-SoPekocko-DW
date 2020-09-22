@@ -12,7 +12,7 @@ Cloner le projet:
 
 Le projet utilise une partie frontend d'un autre dépot en sous-module Pour cloner ce projet, utiliser:
 
-git clone --recursive https://github.com/WebDevLyon/P6-SoPekocko-Openclassrooms-DW.git
+git clone --recursive https://github.com/GoldWomenAcademy/P6-SoPekocko-DW.git
 Procédure
 Cloner le projet.
 Dans le dossier du frontend
